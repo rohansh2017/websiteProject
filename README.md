@@ -12,7 +12,7 @@ A beautiful autumn tree image
 
 Note: All buttons and links are unlinked to other resources, as specified by the project. It contains template contents meant to display knowledge of CSS and HTML.
 
-To view the website, simply open the index.html file in your web browser, or visit the [GitHub Pages Link](https://rohansh2017.github.io/websiteProject/)
+To view the website, simply open the index.html file in your web browser, or visit the [GitHub Pages Link](https://rohansh2017.github.io/websiteProject/).
 
 Author:
 Rohan S.
