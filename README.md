@@ -1,4 +1,4 @@
-# websiteProject
+# Website Project
 
 ## First Website
 A simple website built using HTML and CSS as part of The Odin Project.
