@@ -1,9 +1,9 @@
 # websiteProject
 
-##First Website
+## First Website
 A simple website built using HTML and CSS as part of The Odin Project.
 
-##Features
+## Features
 A responsive design with a header, main content area, and footer
 A call-to-action section with a sign-up button
 A quote section with a testimonial from Thor, God of Thunder
